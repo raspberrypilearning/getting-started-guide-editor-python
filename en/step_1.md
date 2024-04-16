@@ -1,20 +1,20 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![Python code in the Editor - The Preview panel shows the output.](images/index_and_preview_run_python.png)
+
+The Raspberry Pi Editor can be used to write and run code in a web browser without installing any additional software and without the need to create an account (although if you’re logged in to a Raspberry Pi Foundation account, your coding project is automatically saved).
+
+<div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+ The <span style="color: #0faeb0"><a href="https://projects.raspberrypi.org/en/pathways/python-intro">Introduction to Python path</a></span> will help you take your first steps with Python. Along the way, you will create visual and interactive artwork, animations, simulations, games, and more!
+</p>
+</div>
 
 ### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+You will take a tour of the Raspberry Pi Editor and write a simple Python progam.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+The rest of this project will guide you through the features of the Editor!
 
 --- collapse ---
 ---
@@ -22,17 +22,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ A computer
 
 ### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ A browser to run the Editor
 
 --- /collapse ---
 
@@ -41,19 +35,14 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
++ How to log in
++ What the different panels are
++ How to resize the panels
++ How to name a project
++ How to add and rename a file
++ How to change between dark mode and light mode
++ How to change the text size
++ How to run your code
++ How to download a project
 
 --- /collapse ---

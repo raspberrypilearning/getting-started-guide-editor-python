@@ -1,7 +1,21 @@
-## What next?
+## Your account and projects
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+You can access the Account menu from the top right of the Editor.
 
-![ProjectName project](images/projectname-project.png)
+When logged in, you will be able to access:
++ My profile
++ My projects
++ Log out
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+![The Account menu, showing three options.](images/account_menu.png)
+
+Clicking **My projects** will take you to the 'Your projects' page.
+
+Here, you can create a new project and see the projects list, where you have the option to continue, rename, or delete a project.
+
+![The Your projects page, showing links to three projects.](images/your_projects.png)
+
+To return to the Editor, you can:
++ Choose a saved project
++ Create a new project
++ Click the back button in your browser
