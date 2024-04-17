@@ -9,7 +9,7 @@ This screenshot shows the three main panels:
 
 The Preview panel shows Text output by default. If your project uses graphical features, the Preview panel will also include a Visual output.
 
-![The Preview panel showing visual output of the Target practice project.](images/target-practice.png){:height="300px"}
+![The Preview panel showing visual output of the Target practice project.](images/target-practice.png){:width="300px"}
 
 ### Resize the panels
 
