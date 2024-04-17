@@ -40,9 +40,9 @@ The Raspberry Pi Editor will open with a blank project.
 
 The expand button is at the bottom left of the Editor. 
 
-![A screenshot of the Editor showing the expand button highlighted and labelled.](images/editor-python-blank.png)
+![A screenshot of the Editor showing the expand button highlighted and labelled.](images/expand-button-python.png)
 
-Click it to show the sidebar panel.
+Click it to show the Sidebar panel.
 
 The Project files panel will open.
 

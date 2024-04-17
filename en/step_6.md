@@ -4,7 +4,7 @@ Here is the expanded Sidebar panel.
 
 (The Project files are shown by default.)
 
-![The Sidebar panel showing the Project files.](images/project-files-python.png)
+![The Sidebar panel showing the Project files.](images/project-files-python.png){:height="300px"}
 
 ### Sidebar panels
 
@@ -21,7 +21,7 @@ There are five other icons, one for each sidebar panel.
 title: Project information
 ---
 
-![Project information panel.](images/sidepanel-projects-info-python.png)
+![Project information panel.](images/sidepanel-projects-info-python.png){:height="300px"}
 
 + Name (and edit button)
 + Type
@@ -34,7 +34,7 @@ title: Project information
 title: Project files
 ---
 
-![Project files panel.](images/project-files-python.png)
+![Project files panel.](images/project-files-python.png){:height="300px"}
 
 When you open a blank Python project, you are provided with a `main.py` file.
 
@@ -47,7 +47,7 @@ You can click the `Add file` button to add a new file.
 title: Settings
 ---
 
-![Settings panel.](images/sidebar-settings-python.png)
+![Settings panel.](images/sidebar-settings-python.png){:height="300px"}
 
 + Theme: Light or dark mode
 + Text size: Small, medium, or large
@@ -59,7 +59,7 @@ title: Settings
 title: Editor information
 ---
 
-![Editor information panel.](images/sidebar-info-python.png)
+![Editor information panel.](images/sidebar-info-python.png){:height="300px"}
 
 + The purpose of the Raspberry Pi Editor
 + Links to policies
