@@ -53,7 +53,7 @@ In this example, you can see that the conditional statements are indented.
 
 ### Try it
 
-Add this HTML to your project.
+Add this code to your project.
 
 --- code ---
 ---

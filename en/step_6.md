@@ -36,7 +36,7 @@ title: Project files
 
 ![Project files panel.](images/project-files-python.png)
 
-When you open a blank HTML/CSS project, you are provided with a `main.py` file.
+When you open a blank Python project, you are provided with a `main.py` file.
 
 You can click the `Add file` button to add a new file.
 
