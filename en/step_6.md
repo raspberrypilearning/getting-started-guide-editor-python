@@ -12,7 +12,7 @@ There are six icons on the left.
 
 The Editor logo is at the top.
 
-![Editor logo.](images/<>.png)
+![Editor logo.](images/python_icon.svg)
 
 There are five other icons, one for each sidebar panel.
 
