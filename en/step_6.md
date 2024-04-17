@@ -47,7 +47,7 @@ You can click the `Add file` button to add a new file.
 title: Settings
 ---
 
-![Settings panel](images/sidebar-settings-pythhon.png)
+![Settings panel](images/sidebar-settings-python.png)
 
 + Theme: Light or dark mode
 + Text size: Small, medium, or large
