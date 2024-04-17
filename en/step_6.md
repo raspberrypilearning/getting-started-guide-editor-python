@@ -4,7 +4,7 @@ Here is the expanded Sidebar panel.
 
 (The Project files are shown by default.)
 
-![The Sidebar panel showing the Project files.](images/project_files.png)
+![The Sidebar panel showing the Project files.](images/project-files-python.png)
 
 ### Sidebar panels
 
@@ -21,7 +21,7 @@ There are five other icons, one for each sidebar panel.
 title: Project information
 ---
 
-![Project information panel.](images/sidepanel_projects_info.png)
+![Project information panel.](images/sidepanel-projects-info-python.png)
 
 + Name (and edit button)
 + Type
@@ -34,11 +34,11 @@ title: Project information
 title: Project files
 ---
 
-![Project files panel.](images/sidepanel_project_files.png)
+![Project files panel.](images/project-files-python.png)
 
-When you open a blank HTML/CSS project, you are provided with two Project files: `index.html` and `styles.css`.
+When you open a blank HTML/CSS project, you are provided with a `main.py` file.
 
-You can click the `Add file` button to add a new HTML, CSS, or JavaScript file.
+You can click the `Add file` button to add a new file.
 
 --- /collapse ---
 
@@ -47,7 +47,7 @@ You can click the `Add file` button to add a new HTML, CSS, or JavaScript file.
 title: Settings
 ---
 
-![Settings panel](images/sidepanel_settings.png)
+![Settings panel](images/sidebar-settings-pythhon.png)
 
 + Theme: Light or dark mode
 + Text size: Small, medium, or large
@@ -59,7 +59,7 @@ title: Settings
 title: Editor information
 ---
 
-![Editor information panel](images/sidepanel_information.png)
+![Editor information panel](images/sidebar-info-python.png)
 
 + The purpose of the Raspberry Pi Editor
 + Links to policies

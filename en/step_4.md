@@ -7,6 +7,10 @@ This screenshot shows the three main panels:
 
 ![A labelled screenshot of the Raspberry Pi Editor.](images/panels-numbered-python.png)
 
+The Preview panel shows Text output by default. If your project uses graphical features, the Preview panel will also include a Visual output.
+
+![The Preview panel showing visual output of the Target practice project.](images/target-practice.png)
+
 ### Resize the panels
 
 You can resize the panels using the handles.
