@@ -12,7 +12,7 @@ There are six icons on the left.
 
 The Editor logo is at the top.
 
-![Editor logo](images/<>.png)
+![Editor logo.](images/<>.png)
 
 There are five other icons, one for each sidebar panel.
 
@@ -47,7 +47,7 @@ You can click the `Add file` button to add a new file.
 title: Settings
 ---
 
-![Settings panel](images/sidebar-settings-python.png)
+![Settings panel.](images/sidebar-settings-python.png)
 
 + Theme: Light or dark mode
 + Text size: Small, medium, or large
@@ -59,7 +59,7 @@ title: Settings
 title: Editor information
 ---
 
-![Editor information panel](images/sidebar-info-python.png)
+![Editor information panel.](images/sidebar-info-python.png)
 
 + The purpose of the Raspberry Pi Editor
 + Links to policies
