@@ -1,6 +1,6 @@
 ## The Code and Preview panels
 
-![Python code in the Editor. The Preview panel is blank.](images/main-and-preview.png)
+![Python code in the Code Editor. The Preview panel is blank.](images/main-and-preview.png)
 
 The file name is at the top of the panel. 
 
@@ -13,7 +13,7 @@ The Code panel includes the following features:
 title: Line numbering
 ---
 
-When you type new lines of code in the Editor, line numbers will be added for you. 
+When you type new lines of code in the Code Editor, line numbers will be added for you. 
 
 Line numbering helps you keep track of where you are in your project and helps you work with others on your code.
 
@@ -28,9 +28,9 @@ Syntax highlighting improves the readability of code by applying colours and sty
 
 It helps distinguish different parts of the code and is a valuable tool for developers, making code more accessible.
 
-In this example, you can see that the Editor highlights each opening and closing bracket. A string value is highlighted in red.
+In this example, you can see that the Code Editor highlights each opening and closing bracket. A string value is highlighted in red.
 
-![Python code in the Editor.](images/python-code.png)
+![Python code in the Code Editor.](images/python-code.png)
 
 --- /collapse ---
 
@@ -39,13 +39,13 @@ In this example, you can see that the Editor highlights each opening and closing
 title: Indentation
 ---
 
-The Editor will automatically format your code by adding spaces to create a visual structure.
+The Code Editor will automatically format your code by adding spaces to create a visual structure.
 
 Auto-indentation is a useful feature, as indentation affects how Python code is interpreted.
 
 In this example, you can see that the conditional statements are indented.
 
-![Python code in the Editor.](images/indent-code.png)
+![Python code in the Code Editor.](images/indent-code.png)
 
 --- /collapse ---
 
@@ -81,7 +81,7 @@ else:
 + Click the **Run** button.
 + The text output will show in the Preview panel.
 
-![Python code in the Editor - The Preview panel shows the text output.](images/python-run.png)
+![Python code in the Code Editor - The Preview panel shows the text output.](images/python-run.png)
 
 --- /task ---
 
