@@ -1,10 +1,10 @@
-## Editor homepage
+## Code Editor homepage
 
-In this step, you will see how you can create your first Python project and log in to the Raspberry Pi Editor! 
+In this step, you will see how you can create your first Python project and log in to the Raspberry Pi Code Editor! 
 
-You can access the [Raspberry Pi Editor here](https://editor.raspberrypi.org/en/){:target="_blank"}.
+You can access the [Raspberry Pi Code Editor here](https://editor.raspberrypi.org/en/){:target="_blank"}.
 
-![The Raspberry Pi Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
+![The Raspberry Pi Code Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
 
 ### Start coding Python!
 
@@ -24,7 +24,7 @@ If you have a Raspberry Pi account, you can log in to save your projects.
 
 You can log in from the link in the middle of the homepage screen:
 
-![The Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
+![The Code Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
 
 ...or from the Account menu at the top right:
 
@@ -32,15 +32,15 @@ You can log in from the link in the middle of the homepage screen:
 
 --- /collapse ---
 
-The Raspberry Pi Editor will open with a blank project.
+The Raspberry Pi Code Editor will open with a blank project.
 
-![The Raspberry Pi Editor screen.](images/editor-python-blank.png)
+![The Raspberry Pi Code Editor screen.](images/editor-python-blank.png)
 
 --- task ---
 
-The expand button is at the bottom left of the Editor. 
+The expand button is at the bottom left of the Code Editor. 
 
-![A screenshot of the Editor showing the expand button highlighted and labelled.](images/expand-button-python.png)
+![A screenshot of the Code Editor showing the expand button highlighted and labelled.](images/expand-button-python.png)
 
 Click it to show the Sidebar panel.
 

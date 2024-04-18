@@ -10,9 +10,9 @@ Here is the expanded Sidebar panel.
 
 There are six icons on the left.
 
-The Editor logo is at the top.
+The Python logo is at the top.
 
-![Editor logo.](images/python_icon.png)
+![Python logo.](images/python_icon.png)
 
 There are five other icons, one for each sidebar panel.
 
@@ -56,12 +56,12 @@ title: Settings
 
 --- collapse ---
 ---
-title: Editor information
+title: Code Editor information
 ---
 
-![Editor information panel.](images/sidebar-info-python.png){:width="300px"}
+![Code Editor information panel.](images/sidebar-info-python.png){:width="300px"}
 
-+ The purpose of the Raspberry Pi Editor
++ The purpose of the Raspberry Pi Code Editor
 + Links to policies
 + UK registered charity information
 

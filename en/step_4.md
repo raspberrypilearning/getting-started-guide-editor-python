@@ -1,11 +1,11 @@
-## Editor tour
+## Code Editor tour
 
 This screenshot shows the three main panels:
 1) The Sidebar panel on the left
 2) The Code panel in the middle
 3) The Preview panel on the right
 
-![A labelled screenshot of the Raspberry Pi Editor.](images/panels-numbered-python.png)
+![A labelled screenshot of the Raspberry Pi Code Editor.](images/panels-numbered-python.png)
 
 The Preview panel shows Text output by default. If your project uses graphical features, the Preview panel will also include a Visual output.
 
