@@ -1,10 +1,10 @@
 ## Code Editor homepage
 
-In this step, you will see how you can create your first Python project and log in to the Raspberry Pi Code Editor! 
+In this step, you will see how you can create your first Python project and log in to the Raspberry Pi Foundation Code Editor! 
 
-You can access the [Raspberry Pi Code Editor here](https://editor.raspberrypi.org/en/){:target="_blank"}.
+You can access the [Raspberry Pi Foundation Code Editor here](https://editor.raspberrypi.org/en/){:target="_blank"}.
 
-![The Raspberry Pi Code Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
+![The Raspberry Pi Foundation Code Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
 
 ### Start coding Python!
 
