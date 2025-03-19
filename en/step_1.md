@@ -12,23 +12,9 @@ The Raspberry Pi Code Editor can be used to write and run code in a web browser 
 
 ### What you will make
 
-You will take a tour of the Raspberry Pi Code Editor and write a simple Python program.
+You will take a tour of the Code Editor and write a simple Python program.
 
 The rest of this project will guide you through the features of the Code Editor!
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer
-
-### Software
-
-+ A browser to run the Code Editor
-
---- /collapse ---
 
 --- collapse ---
 ---
